@@ -2,7 +2,7 @@ export const About = () => {
 
     const frontendSkills = ["React","CSS","TailwindCSS"];
 
-    const backendSkills = ["Javascript","NodeJS","Python","Java","MySQL","SQLServer","MongoDB"]
+    const backendSkills = ["Javascript","PHP","NodeJS","Python","Java","MySQL","SQLServer","MongoDB"]
 
     const cloudSkills = ["Azure","Azure VMs", "Azure Data Storage"]
 
