@@ -71,7 +71,7 @@ export const About = () => {
                        
                     </div>
                     <p>
-                    In addition to programming skills, I bring hands-on experience with Azure and Linux/Windows Servers, 
+                    In addition to my programming skills, I have experience working with Azure and Linux/Windows Servers, 
                      which allows me to deliver Software that is also reliable and secure in complex environments.
                     </p>
 
