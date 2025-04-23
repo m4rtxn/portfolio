@@ -114,7 +114,7 @@ export const About = () => {
                                         Introduction to Cybersecurity
                                     </li>
                                     <li>
-                                         AI Foundamentals
+                                         AI Fundamentals
                                     </li>
                                     </ul>
                     </div>
